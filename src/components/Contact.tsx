@@ -185,8 +185,8 @@ export const Contact = () => {
                   <div>
                     <div className="font-semibold">Call Us</div>
                     <div className="text-sm text-muted-foreground">
-                      +91-XXX-XXX-XXXX<br />
-                      +91-XXX-XXX-XXXX (WhatsApp)
+                      +91 9371025932<br />
+                      +91 9371025932 (WhatsApp)
                     </div>
                   </div>
                 </div>
