@@ -173,9 +173,9 @@ export const Contact = () => {
                   <div>
                     <div className="font-semibold">Visit Our Institute</div>
                     <div className="text-sm text-muted-foreground">
-                      123 Language Learning Complex<br />
-                      Mumbai, Maharashtra 400001<br />
-                      India
+                      Chinamy Apartment, Flat No-5<br />
+                      Shinde Nagar, Bavdhan<br />
+                      Pune - 411021, India
                     </div>
                   </div>
                 </div>
