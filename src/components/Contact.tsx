@@ -196,8 +196,7 @@ export const Contact = () => {
                   <div>
                     <div className="font-semibold">Email Us</div>
                     <div className="text-sm text-muted-foreground">
-                      lill03@linguisticslearning.in<br />
-                      admissions@linguisticslearning.in
+                      lill03@linguisticslearning.in
                     </div>
                   </div>
                 </div>
